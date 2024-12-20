@@ -8,7 +8,7 @@ Many online development courses use in-browser code editors or "sandboxes," whic
 
 We won't lie to you: installing packages, editors, and even entire operating systems can be very frustrating. However, having the experience of setting up a development environment to run the code you'll write is an invaluable, real-world skill you'll carry with you for the rest of your career.
 
-### Lesson overview
+### Lesson Overview
 
 This section contains a general overview of topics that you will learn in this lesson.
 
@@ -31,7 +31,7 @@ If you're using a Mac, you're in great shape. The Odin Project instructions assu
 
 #### Linux (Official Ubuntu flavors)
 
-[Linux](https://en.wikipedia.org/wiki/Linux) is a free and open-source operating system that works well with all programming languages. Most development tools are written to work natively with Linux. Your tools will likely be updated more often, have more information available for troubleshooting, and just plain run better on Linux. We'll be using Ubuntu, one of the most popular and user-friendly distributions available, or the lighter weight alternative Xubuntu. **If you don't use a Mac, we recommend that you use Linux.** It's that simple.
+[Linux](https://en.wikipedia.org/wiki/Linux) is a free and open-source operating system that works well with all programming languages. Most development tools are written to work natively with Linux. Your tools will likely be updated more often, have more information available for troubleshooting, and just plain run better on Linux. We'll be using Ubuntu, one of the most popular and user-friendly distributions available, or the lighter-weight alternative Xubuntu. **If you don't use a Mac, we recommend that you use Linux.** It's that simple.
 
 #### Windows
 
@@ -41,7 +41,7 @@ Windows, by itself, **is not natively supported** by The Odin Project, or on our
 - Dual-boot Ubuntu installation
 - Windows Subsystem for Linux (WSL2)
 
-A [virtual machine](https://youtu.be/yIVXjl4SwVo) is an emulation of a computer that runs within your existing OS. It allows you to use another operating system inside of a program on your current operating system (e.g. Running Linux inside of Windows). Virtual machines are as straightforward to install as any other program and are risk free. If you don't like Linux, you can easily remove the virtual machine. Virtual machines are a great way for new developers to get started quickly.
+A [virtual machine](https://youtu.be/yIVXjl4SwVo) is an emulation of a computer that runs within your existing OS. It allows you to use another operating system inside of a program on your current operating system (e.g. Running Linux inside of Windows). Virtual machines are as straightforward to install as any other program and are risk-free. If you don't like Linux, you can easily remove the virtual machine. Virtual machines are a great way for new developers to get started quickly.
 
 **Dual-booting** means installing two operating systems on your computer, giving you the option to boot either Linux or Windows when your computer starts up. The advantage of dual-booting over a virtual machine is that the OS can use all of your computer's resources, resulting in much faster operation. There is some risk to installing a dual-boot system because you're changing your hard drive partitions, but you'll be okay as long as you take your time and read the instructions.
 
@@ -63,9 +63,9 @@ Modifying or dual-booting a computer to work with the tools you'll need will mak
 
 Still not convinced? Here are a few great reasons to install Linux:
 
-- **Tested** - We've tested our directions with macOS, Ubuntu (and official Ubuntu flavors) and WSL2. We did the research so that you can get tools installed with as few issues as possible, getting you to coding sooner. Time spent wrestling with your operating system is time taken from learning how to code.
+- **Tested** - We've tested our directions with macOS, Ubuntu (and official Ubuntu flavors) and WSL2. We did the research so that you can get tools installed with as few issues as possible, getting you to code sooner. Time spent wrestling with your operating system is time taken from learning how to code.
 - **Community Support** - Using the tools we recommend makes it easier for us to help when you run into trouble.
-- **Development Tools Are Built for Linux** - Ruby (on Rails) and Node.js, popular backend technologies covered by The Odin Project and widely used in the larger web development community, are open source projects that explicitly *expect* to run on an open-source (UNIX-based) platform like Linux.
+- **Development Tools Are Built for Linux** - Ruby (on Rails) and Node.js, popular backend technologies covered by The Odin Project and widely used in the larger web development community, are open-source projects that explicitly *expect* to run on an open-source (UNIX-based) platform like Linux.
 - **Work Like The Pros** - Many developers use a Unix-based operating system.
 - **Performance** - Are you worried about installing Linux because your machine is slow or older and has limited space? When performance is a priority, Linux is a great choice. It uses fewer system resources than Windows and occupies less hard drive space.
 
